@@ -40,6 +40,8 @@ body {
     align-items: center;
     font-family: 'montserrat';
     font-size: 1.4em;
-    text-decoration: none;
-    color: black;
 }
+a {
+    text-decoration: none;
+    color: black 
+    }
