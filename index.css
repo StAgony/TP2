@@ -7,7 +7,7 @@ body {
     height: 200vh;
     margin: 10px;  
 }
-#menu {
+header {
     display: flex;
     justify-content: flex-start;
     background-color: #502F4C;
@@ -31,7 +31,7 @@ body {
     padding: 3px;
 
 }
-#items {
+nav {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
